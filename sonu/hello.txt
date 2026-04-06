@@ -1,0 +1,10 @@
+hello sonu bro , i love allah, allah love us
+
+this is good nano editor 
+
+linux - open linux , or git bash shell and run command 
+
+mkdir <folderName> - create folder
+touch <fileName>  - create file 
+
+nano hello.txt command to open nano editor
