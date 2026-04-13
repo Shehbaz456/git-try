@@ -1,1 +1,1 @@
-console.log("Hello Signup");
+console.log("Signup");
